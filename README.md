@@ -3,11 +3,11 @@
 <img src="https://github.com/rokey-cobot1/cobot1_roburger/blob/main/roburger_md_asset/9.jpg">
 
 # 목차
-### [팀원 소개](#1.-팀원-소개)
-### [프로젝트 개요](#2.-프로젝트-개요)
-### [프로젝트 환경 구성](#3.-프로젝트-환경-구성)
-### [System Architecture](#4.-system-architecture)
-### [Flow Chart](#5.-flow-chart)
+### [팀원 소개](#1-팀원-소개)
+### [프로젝트 개요](#2-프로젝트-개요)
+### [프로젝트 환경 구성](#3-프로젝트-환경-구성)
+### [System Architecture](#4-system-architecture)
+### [Flow Chart](#5-flow-chart)
 
 <br>
 
